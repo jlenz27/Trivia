@@ -1,6 +1,6 @@
 # _{Application Name}_
 
-#### By _Jacob Maier_
+#### By _John Lenz_
 
 #### _{Brief description of application}_
 
@@ -36,4 +36,4 @@ _{}_
 
 _MIT_
 
-Copyright (c) _2023_ _Jacob Maier_
+Copyright (c) _2023_ _John Lenz_
